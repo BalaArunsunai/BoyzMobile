@@ -1,0 +1,84 @@
+
+.navbar{
+    height: 70px !important;
+}
+
+.mainContainer{
+    max-width: 1600px;
+    margin: auto;
+}
+
+
+.whatsappLink{
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    bottom: 30px;
+    right: 30px;
+    z-index: 9999;
+}
+
+.imageLinkFit{
+    width: 100%;
+    height: 100%;
+}
+
+.navbar-brand:hover{
+    color: rgba(245, 245, 23, 0.856) !important;
+}
+
+.detailsPageContent{
+    max-width: 700px;
+    margin: auto;
+    padding: 1rem;
+}
+
+.detailsHead{
+    font-size: 40px;
+    font-weight: 500;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.detailsImage{
+width: 100%;
+margin-bottom: 2rem;
+}
+
+.imageFit{
+width: 100%;
+}
+
+.subHead{
+ font-size: 24px;
+ padding-bottom: 1rem;
+}
+
+.description{
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.specialistHead{
+    font-size: 24px;
+ padding-bottom: 1rem;
+}
+
+.specialistContents{
+    font-size: 16px;
+    font-weight: lighter;
+    line-height: 30px;
+    margin-bottom: 10px;
+}
+
+.copyright{
+    height: 90px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    border-top: 1px solid #ccc;
+    padding: 0 30px;
+    text-align: center;
+}
